@@ -1,0 +1,17 @@
+{
+    "nome": "Joedes Souza de Freitas Junior",
+    "produto": "Geladeira Tramontina 220V",
+    "valor": 2499,
+    "data_compra": "2022-07-29",
+    "cpf": "035.841.660-47",
+    "endereco_entrega": [
+        {
+            "rua": "Rua Pastor Diógenes Rodrigues",
+            "numero": 183,
+            "bairro": "Ermo",
+            "cidade": "Guaíba",
+            "estado": "Rio Grande do Sul",
+            "cep": "92702560"
+        }
+    ]
+}
